@@ -26,5 +26,5 @@ These are a few things I had fun working on:
 🎙️ **Podcasts**
 - [Build and Deploy Podcast](https://www.twilio.com/en-us/blog/build-and-deploy-liz-moy-nicole-he-sms-bots)
 - [Decrypt Podcast](https://evervault.com/blog/decrypt-episode-001)
-- Mongo DB Podcast - [Episode 100]([https://developers.intercom.com/docs/build-an-integration/getting-started/build-an-app-for-your-messenger/sheets-app](https://www.mongodb.com/developer/podcasts/ep-100-twilio-and-mongodb-with-liz-moy/)
+- Mongo DB Podcast - [Episode 100](https://www.mongodb.com/developer/podcasts/ep-100-twilio-and-mongodb-with-liz-moy/)
 - .NET Rocks Podcast - [Episode 1799](https://www.dotnetrocks.com/details/1799)
