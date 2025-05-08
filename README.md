@@ -1,6 +1,6 @@
 ## Hi, I'm Liz 👋
 
-I'm a developer relations engineer currently working on Fin AI Agent projects at Intercom. So things like..
+I'm a developer relations engineer currently working on Fin projects at Intercom. So things like..
 - 🔧 Helping partner developers [build integrations](https://developers.intercom.com/docs/webhooks/integrate-intercom-with-slack)
 - ✨ Shiny new tooling like [MCP servers](https://developers.intercom.com/docs/guides/mcp)
 - 💻 Updating our REST APIs and SDKs so that building on Intercom is, dare we say it, enjoyable
