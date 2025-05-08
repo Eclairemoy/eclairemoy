@@ -18,6 +18,7 @@ These are a few things I had fun working on:
 
 📓 **Tutorials and Guides**
 - Create Your own AI Agent Report using the Intercom API - [Guide](https://developers.intercom.com/docs/guides/reporting/ai-agent-report)
+- Integrate Intercom with Slack - [Guide](https://developers.intercom.com/docs/webhooks/integrate-intercom-with-slack)
 - Uploading Encrypted Files to S3 built on Next.js - [Guide](https://docs.evervault.com/guides/file-to-s3)
 - Build a Call Overflow system with Twilio, Airtable, and Javascript - [Tutorial](https://www.twilio.com/en-us/blog/call-overflow-system-twilio-studio-serverless)
 - Using the Yelp API + Twilio for Flower Delivery - [Tutorial](https://www.twilio.com/en-us/blog/yelp-api-twilio-messaging-flower-delivery)
