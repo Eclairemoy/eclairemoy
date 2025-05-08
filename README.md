@@ -21,7 +21,7 @@ These are a few things I had fun working on:
 - Uploading Encrypted Files to S3 built on Next.js - [Guide](https://docs.evervault.com/guides/file-to-s3)
 - Build a Call Overflow system with Twilio, Airtable, and Javascript - [Tutorial](https://www.twilio.com/en-us/blog/call-overflow-system-twilio-studio-serverless)
 - Using the Yelp API + Twilio for Flower Delivery - [Tutorial](https://www.twilio.com/en-us/blog/yelp-api-twilio-messaging-flower-delivery)
-- - My Book Bot in the News - [CNN Article](https://www.twilio.com/en-us/blog/call-overflow-system-twilio-studio-serverless)
+- My Book Bot in the News - [CNN Article](https://edition.cnn.com/2020/06/28/us/black-authors-bot-book-recommendations-trnd/index.html)
 
 
 🎙️ **Podcasts**
