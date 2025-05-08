@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Liz 👋
 
-<!--
-**Eclairemoy/eclairemoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer relations engineer currently working on Fin AI Agent projects at Intercom. So things like..
+- 🔧 Helping partner developers [build integrations](https://developers.intercom.com/docs/webhooks/integrate-intercom-with-slack)
+- ✨ Shiny new tooling like [MCP servers](https://developers.intercom.com/docs/guides/mcp)
+- 💻 Updating our REST APIs and SDKs so that building on Intercom is, dare we say it, enjoyable
 
-Here are some ideas to get you started:
+I used to work at [Evervault](https://evervault.com/) and before that I worked at [Twilio](https://www.twilio.com/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+These are a few things I had fun working on:
+📹 Twilio Enterprise Hackathons Program — [DevRelCon 2022](https://www.youtube.com/watch?v=rANmypa21tk)
+📹 Book Bot - [Gift of reading](https://www.youtube.com/watch?v=qZidaiiS24g)
+📹 Encryption [Conference Talk](https://www.youtube.com/watch?v=U-pXi165Uok) where I made Tinder Profiles for Encryption Algorithms
+
+📓 Create Your own AI Agent Report using the Intercom API - [Guide](https://developers.intercom.com/docs/guides/reporting/ai-agent-report)
+📓 Uploading Encrypted Files to S3 built on Next.js - [Guide](https://docs.evervault.com/guides/file-to-s3)
+📓 Build a Call Overflow system with Twilio, Airtable, and Javascript - [Tutorial](https://www.twilio.com/en-us/blog/call-overflow-system-twilio-studio-serverless)
+📓 My Book Bot in the News - [CNN](https://www.twilio.com/en-us/blog/call-overflow-system-twilio-studio-serverless)
+
+🎙️ [Build and Deploy Podcast](https://www.twilio.com/en-us/blog/build-and-deploy-liz-moy-nicole-he-sms-bots)
+🎙️ [Decrypt Podcast](https://evervault.com/blog/decrypt-episode-001)
