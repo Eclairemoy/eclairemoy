@@ -1,6 +1,8 @@
 ## Hi, I'm Liz 👋
 
-I'm a developer relations engineer currently working on Fin projects at Intercom. So things like..
+I'm currently a Forward Deployed Engineer at Intercom helping companies turn Fin into their teammate. 
+
+In my previous role as a developer relations engineer I focused on:
 - 🔧 Helping partner developers [build integrations](https://developers.intercom.com/docs/webhooks/integrate-intercom-with-slack)
 - ✨ Shiny new tooling like [MCP servers](https://developers.intercom.com/docs/guides/mcp)
 - 💻 Updating our REST APIs and SDKs so that building on Intercom is, dare we say it, enjoyable
